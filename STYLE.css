@@ -1,0 +1,149 @@
+h1{
+    color: blue;
+    position: absolute;
+    left: 20px;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold';
+}
+
+h1:hover{
+    color: black;
+}
+
+*{
+    background-color: rgb(194, 238, 238);;
+}
+
+a{
+    margin-right: 50px;
+    padding-top: 0px;
+    position: relative;
+    left:1000px;
+    top: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 40px;
+    display: inline;
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+/* 
+i{
+    margin-right: 60px;
+    padding-top: 10px;
+    position: relative;
+    left:1300px;
+    top: 40px;
+    height: 1000px;
+    color: blue;
+
+}
+
+i:hover{
+    color: black;
+}
+
+*/
+
+H3{
+    position: absolute;
+    top: 200PX;
+    LEFT: 650PX;
+    font-size: 40PX;
+    font-family: 'Arial Narrow Bold';
+}
+
+H2{
+    position: absolute;
+    top: 250PX;
+    LEFT: 650PX;
+    font-size: 60PX;
+}
+
+#A{
+    position: absolute;
+    top: 340PX;
+    LEFT: 650PX;
+    font-size: 40PX;
+    
+    font-weight: lighter;
+    color: blue;
+}
+
+#b{
+    position: absolute;
+    top: 410PX;
+    LEFT: 650PX;
+    font-size: 30PX;
+    
+    font-weight: lighter;
+}
+
+button{
+    position: absolute;
+    top: 490PX;
+    LEFT: 650PX;
+    color: black;
+    background-color: blue;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+
+}
+
+button:hover{
+    color: blue;
+    background-color: black;
+}
+
+img{
+    
+    margin-left: 100px;
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+    border: solid;
+    border-radius: 20px;
+    
+}
+
+img:hover{
+    box-shadow: 10px 10px 2px;
+}
+
+i{
+    position: absolute;
+    right: 100px;
+    height: 50px;
+}
+
+#footer{
+    padding-top:30px ;
+    text-align: center;
+    height: 60px;
+    color: white;
+    background-color: #232323;;
+}
+
+#footer:hover{
+    color: yellow;
+}
+
+#hero{
+    height: 710px;
+}
+
+div{
+    display: flex;
+    flex-wrap: ______;
+}
+
+*{
+    display: flex;
+    flex-wrap: ______;
+}
